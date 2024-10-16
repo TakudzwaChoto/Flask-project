@@ -1,2 +1,2 @@
 # Flask-project
-A water quality management based on blockchain have hyperledger mechanism , interacating with web3.
+A water quality management based on blockchain having hyperledger mechanism , interacating with web3.
